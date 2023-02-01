@@ -1,1 +1,6 @@
-
+[
+  "suggestable_json_bugrep" { "html_ver" : "1.1",
+                              "response" : "404",
+                              "title" : "page not found"
+  }
+]

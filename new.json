@@ -1,9 +1,0 @@
-[
-	{	"greetings" : "hello!",
-		"name" : "alexey",
-		"age" : 41,
-		"petsnumber" : 1,
-		"dessalary" : 9000,
-		"currency" : "EUR"
-	}
-]
